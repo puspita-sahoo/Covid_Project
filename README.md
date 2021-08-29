@@ -1,4 +1,7 @@
 # covid_project
+This project tracks and show the reports of Corona Virus status in real time visualization with graphs.
+- I have used Python and Django for backend and JavaScript(Chart.js) for graphical represetation. 
+
 
 ### Create Environment
 `$ python3 -m venv env_name`
