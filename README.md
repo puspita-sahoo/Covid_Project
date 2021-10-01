@@ -10,7 +10,7 @@
 
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/puspita-sahoo/covid_project.git
 ```
 
 ### Create Environment
