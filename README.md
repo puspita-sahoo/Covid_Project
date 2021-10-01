@@ -31,7 +31,6 @@
 ```bash
  $ pip3 install -r requrements.txt
 ```
-
 ## Database Migrations
 
 
