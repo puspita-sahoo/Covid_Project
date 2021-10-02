@@ -1,7 +1,7 @@
 # covid_project
 - This project tracks and show the reports of Corona Virus status in real time visualization with graphs.
 - I have used Python and Django for backend and JavaScript(Chart.js) for graphical represetation. 
-
+![Screenshot from 2021-10-02 15-46-26](https://user-images.githubusercontent.com/85501280/135712257-ec8fb721-595f-471a-9502-2162f617b02e.png)
 
 ## Run Locally
 
