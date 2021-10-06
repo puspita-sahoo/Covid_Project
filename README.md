@@ -7,7 +7,6 @@
 
 ### Clone the project
 
-
 ```bash
   git clone https://github.com/puspita-sahoo/covid_project.git
 ```
