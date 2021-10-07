@@ -4,7 +4,6 @@
 
 ## Run Locally
 
-
 ### Clone the project
 
 ```bash
