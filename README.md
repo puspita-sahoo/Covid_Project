@@ -23,7 +23,6 @@
 
 ## Install all Dependencies
 
-
 ```bash
  $ pip3 install -r requrements.txt
 ```
